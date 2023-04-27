@@ -1,0 +1,15 @@
+C:\KNUTE2\OOP\lab5_sem2\task_1\bin\Debug\net6.0\task_1.exe
+C:\KNUTE2\OOP\lab5_sem2\task_1\bin\Debug\net6.0\task_1.deps.json
+C:\KNUTE2\OOP\lab5_sem2\task_1\bin\Debug\net6.0\task_1.runtimeconfig.json
+C:\KNUTE2\OOP\lab5_sem2\task_1\bin\Debug\net6.0\task_1.dll
+C:\KNUTE2\OOP\lab5_sem2\task_1\bin\Debug\net6.0\task_1.pdb
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.dll
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\refint\task_1.dll
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.pdb
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+C:\KNUTE2\OOP\lab5_sem2\task_1\obj\Debug\net6.0\ref\task_1.dll
